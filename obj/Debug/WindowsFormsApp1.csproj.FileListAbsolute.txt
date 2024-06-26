@@ -1,0 +1,10 @@
+C:\VB.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\VB.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\VB.NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sketcher.resources
