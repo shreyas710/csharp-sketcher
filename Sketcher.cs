@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void openFileClicked(object sender, EventArgs e)
         {
             var dialog = new OpenFileDialog();
             if (dialog.ShowDialog() == DialogResult.OK)
@@ -32,12 +32,12 @@ namespace WindowsFormsApp1
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void newFileClicked(object sender, EventArgs e)
         {
 
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void quitApplication(object sender, EventArgs e)
         {
             Application.Exit();
         }
