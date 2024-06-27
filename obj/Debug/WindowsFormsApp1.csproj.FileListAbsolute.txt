@@ -8,3 +8,4 @@ C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.c
 C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sketcher.resources
+C:\VB.NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
